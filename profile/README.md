@@ -26,7 +26,7 @@ We're a non-profit project team dedicated to restoring PlayStation Home's origin
 
 <table class="center">
   <tr>
-   <td align="center"><a href="https://twitter.com/NagatoRevenge/"><img src="https://user-images.githubusercontent.com/67494727/167346455-b7178b5f-a36b-4875-8325-1a8c5030f409.png" width="100px;" alt="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive"/><br /><sub><b>Nagato</b></sub></a><br /><a href="" title="Content Server Developer">🖧</a> <a href="https://www.youtube.com/c/ProjectDestinationHomeRevival/videos" title="Video Editor">🎥</a></td>
+   <td align="center"><a href="https://twitter.com/NagatoRevenge/"><img src="https://user-images.githubusercontent.com/67494727/167346455-b7178b5f-a36b-4875-8325-1a8c5030f409.png" width="100px;" alt="https://github.com/NagatoDEV/NagatoDEV"/><br /><sub><b>Nagato</b></sub></a><br /><a href="" title="Content Server Developer">🖧</a> <a href="https://www.youtube.com/c/ProjectDestinationHomeRevival/videos" title="Video Editor">🎥</a></td>
    <td align="center"><a href="https://twitter.com/destinpshome?lang=en"><img src="https://user-images.githubusercontent.com/67494727/167352522-25f643e9-5e49-4788-88cb-d7ce23862a2d.jpg" width="100px;" alt=""/><br /><sub><b>Dedsec</b></sub></a><br /><a href="https://github.com/DestinationHome" title="_Backend Dev_">🌐</a>
 </td>
      <td align="center"><a href="https://twitter.com/destinpshome?lang=en"><img src="https://user-images.githubusercontent.com/67494727/167366376-46953e25-73a4-4a23-b22c-31ed6fe84d61.JPG" width="100px;" alt=""/><br /><sub><b>Knight</b></sub></a><br /><a href="https://github.com/DestinationHome" title="Client Reverse Engineer & Programmer">🛠</a></td>
