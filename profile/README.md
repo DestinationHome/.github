@@ -43,5 +43,4 @@ We're a non-profit project team dedicated to restoring PlayStation Home's origin
 - [PlayStation Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
 - [PlayStation Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
 - [PlayStation Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)
-- [PlayStation Vita Packet Capture Archive](https://github.com/NagatoDEV/PlayStation-Vita-Packet-Captures)
 - [PlayStation Home Scene List Spreadsheet](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet)
