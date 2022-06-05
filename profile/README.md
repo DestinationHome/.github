@@ -37,9 +37,18 @@ We're a non-profit project team dedicated to restoring PlayStation Home's origin
      <td align="center"><a href="https://twitter.com/destinpshome?lang=en"><img src="https://user-images.githubusercontent.com/67494727/167363969-4c177445-c88f-4075-b68e-17fd8a62a04f.png" width="100px;" alt=""/><br /><sub><b>PS Online Network Emulated Development Team</b></sub></a><br /><a href="https://github.com/DestinationHome" title="PS Online Network Emulated Development Team">💻</a></td>
 </table>
 
-### Current GitHub Projects:
+# Current GitHub Projects:
+
+<p align="center">
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/67494727/172031199-b1bfac7f-21d0-400a-8caf-3c7d6337721b.png">
+</p>
 
 - [Destination Home Online](https://github.com/DestinationHome/Destination-Home-Online)
+  - Check out our other supported languages for the Destination Home Online repository! 
+    - [Dutch](https://github.com/DestinationHome/Destination-Home-Online-Dutch)
+    - [French](https://github.com/DestinationHome/Destination-Home-Online-French) 
+    - [Italian](https://github.com/DestinationHome/Destination-Home-Online-Italy)
+    - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)
 - [PlayStation Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
 - [PlayStation Home Reward Archive Database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive)
 - [PlayStation Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
