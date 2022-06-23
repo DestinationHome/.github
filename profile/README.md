@@ -50,6 +50,7 @@ We're a non-profit project team dedicated to restoring PlayStation Home's origin
     - [Italian](https://github.com/DestinationHome/Destination-Home-Online-Italy)
     - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)
 - [PlayStation Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
+- [PlayStation®Home Master Archive Expanded-Archive](https://github.com/NagatoDEV/PlayStation-Home-Master-Expanded-Archive)
 - [PlayStation Home Reward Archive Database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive)
 - [PlayStation Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
 - [PlayStation Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)
