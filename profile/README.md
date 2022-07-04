@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
-We're a non-profit project team dedicated to restoring PlayStation Home's original [online](https://github.com/DestinationHome/Destination-Home-Online) functionality for gaming history preservation and educational purposes. In order to preserve PlayStation Home as a whole complex networking infrastructure, we ask the Home community to consider in donating pretentious/precious cache data from original clients. For more information on how you can [donate](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/) your old Home data which helps restore original Home content for our emulated networking services e.g., original spaces, clothing objects, video content, minigames & other core functional objects that is needed for PlayStation Home online.
+We're a **non-profit** preservation team dedicated to restoring **PlayStation Home's** original [online](https://github.com/DestinationHome/Destination-Home-Online) functionality & network services for gaming history preservation and educational purposes. In order to preserve PlayStation Home as a whole complex networking infrastructure, we ask the Home community & enthusiast alike to consider in donating pretentious/precious **cache data** from there original PLAYSTATATION®3 systems. For more information on how you can [donate](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/) your old Home data which helps restore original Home content for our emulated networking services e.g., *original spaces*, *clothing objects*, *video content*, *minigames* & other core functional objects that is needed for **PlayStation®Home** online.
 
 ![NPIA00005_screenshot_2022_05_09_12_54_38](https://user-images.githubusercontent.com/67494727/167459584-1303c148-5721-444b-bbaa-737874b06beb.png)
 
@@ -43,15 +43,15 @@ We're a non-profit project team dedicated to restoring PlayStation Home's origin
   <img width="150" height="150" src="https://user-images.githubusercontent.com/67494727/172031199-b1bfac7f-21d0-400a-8caf-3c7d6337721b.png">
 </p>
 
-- [Destination Home Online](https://github.com/DestinationHome/Destination-Home-Online)
-  - Check out our other supported languages for the Destination Home Online repository! 
-    - [Dutch](https://github.com/DestinationHome/Destination-Home-Online-Dutch)
-    - [French](https://github.com/DestinationHome/Destination-Home-Online-French) 
-    - [Italian](https://github.com/DestinationHome/Destination-Home-Online-Italy)
-    - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)
-- [PlayStation Home Master Archive Data-Mining](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
-- [PlayStation®Home Master Archive Expanded-Archive](https://github.com/NagatoDEV/PlayStation-Home-Master-Expanded-Archive)
-- [PlayStation Home Reward Archive Database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive)
-- [PlayStation Home 1.86 HEN Launcher](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
-- [PlayStation Home Cache Extraction Guide](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)
-- [PlayStation Home Scene List Spreadsheet](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet)
+- [**Destination Home Online**](https://github.com/DestinationHome/Destination-Home-Online)
+  - Check out our other **supported languages** for the Destination Home Online repository! 
+    - [*Dutch*](https://github.com/DestinationHome/Destination-Home-Online-Dutch)
+    - [*French*](https://github.com/DestinationHome/Destination-Home-Online-French) 
+    - [*Italian*](https://github.com/DestinationHome/Destination-Home-Online-Italy)
+    - [*Japanese*](https://github.com/DestinationHome/Destination-Home-Online-Japan)
+- [**PlayStation®Home Master Archive Data-Mining**](https://github.com/NagatoDEV/PlayStation-Home-Master-Archive)
+- [**PlayStation®Home Master Archive Expanded-Archive**](https://github.com/NagatoDEV/PlayStation-Home-Master-Expanded-Archive)
+- [**PlayStation®Home Reward Archive Database**](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive)
+- [**PlayStation®Home 1.86 HEN Launcher**](https://github.com/DestinationHome/PlayStation-Home-Hen-Offline)
+- [**PlayStation®Home Cache Extraction Guide**](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)
+- [**PlayStation®Home Scene List Spreadsheet**](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet)
