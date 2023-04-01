@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Follow%20us%20on-YouTube-ff0000"
             alt="Follow us on YouTube"></a>
            <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki">
-        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%20%7C%20Get%20Started%20by%20following%20our%20quick--start%20guide-0995d3"
+        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%2052.86.120.101%20%7C%20Get%20Started%20by%20following%20our%20quick--start%20guide-0995d3"
             alt="🌐 Destination Home Public DNS Setting: | Get Started by following our quick-start guide"></a>
              <a href="https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/">
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
