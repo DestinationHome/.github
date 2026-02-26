@@ -44,7 +44,7 @@ For more information on how you can [**donate**](https://nagato.gitbook.io/plays
             <a href="https://github.com/ZephyrCodesStuff" title="Project Lead & Everything Developer">👑</a>
         </td>
         <td align="center">
-            <a href="https://github.com/CaptainThrills">
+            <a href="https://github.com/CaptainThrillsDev">
                 <img src="https://github.com/CaptainThrills.png" width="100px;" alt="CaptainThrills" />
                 <br /><sub><b>CaptainThrills</b></sub>
             </a><br />
