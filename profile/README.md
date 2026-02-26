@@ -58,7 +58,7 @@ For more information on how you can [**donate**](https://nagato.gitbook.io/plays
             <a href="https://github.com/Toykyle" title="CDN Manager & Cache Goblin">📦</a>
         </td>
         <td align="center">
-            <a href="https://github.com/JuliusJoker">
+            <a href="https://github.com/JuliusJoker92">
                 <img src="https://github.com/JuliusJoker.png" width="100px;" alt="JuliusJoker" />
                 <br /><sub><b>JuliusJoker</b></sub>
             </a><br />
