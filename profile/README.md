@@ -45,7 +45,7 @@ For more information on how you can [**donate**](https://nagato.gitbook.io/plays
         </td>
         <td align="center">
             <a href="https://github.com/CaptainThrillsDev">
-                <img src="https://github.com/CaptainThrills.png" width="100px;" alt="CaptainThrills" />
+                <img src="https://github.com/CaptainThrillsDev.png" width="100px;" alt="CaptainThrills" />
                 <br /><sub><b>CaptainThrills</b></sub>
             </a><br />
             <a href="https://github.com/CaptainThrills" title="Project Lead & Backend Developer">🌐</a>
@@ -59,7 +59,7 @@ For more information on how you can [**donate**](https://nagato.gitbook.io/plays
         </td>
         <td align="center">
             <a href="https://github.com/JuliusJoker92">
-                <img src="https://github.com/JuliusJoker.png" width="100px;" alt="JuliusJoker" />
+                <img src="https://github.com/JuliusJoker92.png" width="100px;" alt="JuliusJoker" />
                 <br /><sub><b>JuliusJoker</b></sub>
             </a><br />
             <a href="https://github.com/JuliusJoker" title="Backend & Tooling Developer">🛠️</a>
